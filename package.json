@@ -1,11 +1,5 @@
 {
   "name": "website",
   "version": "1.0.0",
-  "description": "A simple static website",
-  "scripts": {
-    "start": "http-server"
-  },
-  "dependencies": {
-    "http-server": "^13.0.1"
-  }
+  "description": "A simple static website"
 }
